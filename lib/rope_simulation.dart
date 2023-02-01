@@ -21,7 +21,7 @@ class _StringSimulationWidgetState extends State<RopeSimulationWidget> {
 
   late List<Particle> particles;
   late List<Spring> springs;
-  double spacing = 40;
+  double spacing = 20;
   double k = 0.5;
   late Timer timer;
   late int noOfParticles;
@@ -45,7 +45,7 @@ class _StringSimulationWidgetState extends State<RopeSimulationWidget> {
     );
 
     for (int i = 0; i < noOfParticles; i++) {
-      particles[i] = Particle(300.0 + i * spacing, 300 + i * spacing);
+      particles[i] = Particle(60.0 + i * spacing, 400 + i * spacing);
       if (i != 0) {
         var a = particles[i];
         var b = particles[i - 1];

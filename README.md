@@ -4,14 +4,14 @@ This is a rope simulation made with Flutter.
 
 ## Follow me
 
-Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/itsmeajaykv?style=social)](https://twitter.com/itsmeajaykv)
-GitHub: [![GitHub followers](https://img.shields.io/github/followers/Ajay9o9?style=social)](https://github.com/Ajay9o9)
-Codingsalad @Youtube: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2NM7zDY40Y7djGgk4GP4iA?style=social)](https://www.youtube.com/channel/UC2NM7zDY40Y7djGgk4GP4iA)
+#### Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/itsmeajaykv?style=social)](https://twitter.com/itsmeajaykv)
+#### GitHub: [![GitHub followers](https://img.shields.io/github/followers/Ajay9o9?style=social)](https://github.com/Ajay9o9)
+#### Codingsalad @Youtube: [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC2NM7zDY40Y7djGgk4GP4iA?style=social)](https://www.youtube.com/channel/UC2NM7zDY40Y7djGgk4GP4iA)
 
 
 
-###Video
-[![Rope Simulation](https://img.youtube.com/vi/bkz9MwDAWHw/0.jpg)](https://youtu.be/bkz9MwDAWHw)
+
+#### Youtube video[![Rope Simulation](https://img.youtube.com/vi/bkz9MwDAWHw/0.jpg)](https://youtu.be/bkz9MwDAWHw)
 
 
 
